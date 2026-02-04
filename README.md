@@ -7,7 +7,7 @@ Para esta tarea me he basado en la IA para agilizar preguntas de errores o códi
 
 A su vez, no entendía muy bien dónde poner el **flush()** y la IA me ha explicado cuál era la mejor parte para poner ese código y que el programa no se quedara congelado por falta de sincronización entre el Padre y el Hijo. Como último me ha servido como guía para confirmar algunas dudas que veía en la presentaciones de clase en concreto el tema de **InputStreamReader** o **Destroy()**. Más que todo intenté que la IA me ayudará a entender este tema, ya que, más que complejo es mucha información y entre código, te puedes perder. 
 
-# LINK: https://gemini.google.com/share/c9c43ff8a3a4
+## LINK: https://gemini.google.com/share/c9c43ff8a3a4
 
 
 ---
