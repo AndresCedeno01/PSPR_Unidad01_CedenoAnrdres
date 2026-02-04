@@ -2,6 +2,8 @@
 
 # Tarea 1: Comunicación entre Procesos (Padre e Hijo)
 
+Los archivos javas están en sus carpetas SRC en sus respectivos proyectos Java. 
+
 ## USO DE LA IA
 Para esta tarea me he basado en la IA para agilizar preguntas de errores o código que desconocía. He preguntado más que todo sobre **throws IOException** y cuáles eran las opciones que yo tenía para solucionarlos; después, por mi cuenta, fui probando cuál era la mejor opción para mi código y decidí quedarme con la que mejor se adaptaba a mi estructura de flujos. 
 
